@@ -1,10 +1,9 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=92EEFF&center=true&vCenter=true&width=435&lines=Maria+Loureiro;DevOps+%26+Back-end;FATEC+Sorocaba" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=92EEFF&center=true&vCenter=true&width=435&lines=Maria+Julia+Loureiro;DevOps+%26+Back-end;FATEC+Sorocaba" alt="Typing SVG" />
 
 ✨ Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba** ✨  
-💼 Apaixonada por **C#**, **Bancos de Dados** e **Cloud AWS**
 
 </div>
 
