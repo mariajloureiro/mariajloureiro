@@ -1,7 +1,7 @@
 # Olá, eu sou a Maria Loureiro 👋
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba**  
-💻 Focada em **Desenvolvimento Back-end (C#)**, **Bancos de Dados** e **Nuvem (AWS)**
+
 
 ---
 
