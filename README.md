@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ### 🧸 Tech Stack & Ferramentas
 ...
 ✨ Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba** ✨  
