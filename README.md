@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌸 Olá, eu sou a Maria Loureiro! 🌸
+# 🌸 𝙼𝚊𝚛𝚒𝚊 𝙻𝚘𝚞𝚛𝚎𝚒𝚛𝚘 🌸
+### <sub>｢ 𝙿𝚒𝚡𝚎𝚕 & 𝙲𝚘𝚍𝚎 ｣</sub>
 
 ✨ Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba** ✨  
-
+💼 Apaixonada por **C#**, **Bancos de Dados** e **Cloud AWS**
 
 </div>
-
 ---
 
 ### 🧸 Tech Stack & Ferramentas
