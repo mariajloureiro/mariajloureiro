@@ -11,11 +11,7 @@
 
 ### 🧸 Tech Stack & Ferramentas
 ...
-# 🌸 𝙼𝚊𝚛𝚒𝚊 Júlia 𝙻𝚘𝚞𝚛𝚎𝚒𝚛𝚘 🌸
-
 ✨ Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba** ✨  
-
-
 </div>
 ---
 
