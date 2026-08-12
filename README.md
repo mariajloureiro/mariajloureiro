@@ -1,36 +1,46 @@
-# Olá, eu sou a Maria Loureiro 👋
+<div align="center">
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba**  
+# 🌸 Olá, eu sou a Maria Loureiro! 🌸
+
+✨ Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Sorocaba** ✨  
 
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-**Linguagens & Cloud:**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Bancos de Dados:**  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Outros:**  
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 🧸 Tech Stack & Ferramentas
 
-<p align="left">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mariajloureiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajloureiro&layout=compact&theme=tokyonight"/>
-</p>
+<!-- C# / .NET / AWS -->
+<img src="https://img.shields.io/badge/C%23-5E3122?style=for-the-badge&logo=csharp&logoColor=92EEFF" />
+<img src="https://img.shields.io/badge/.NET-5E3122?style=for-the-badge&logo=dotnet&logoColor=92EEFF" />
+<img src="https://img.shields.io/badge/AWS-5E3122?style=for-the-badge&logo=amazon-aws&logoColor=92EEFF" />
+
+<!-- Bancos de Dados -->
+<img src="https://img.shields.io/badge/MySQL-5E3122?style=for-the-badge&logo=mysql&logoColor=92EEFF" />
+<img src="https://img.shields.io/badge/Oracle-5E3122?style=for-the-badge&logo=oracle&logoColor=92EEFF" />
+
+<!-- Outros -->
+<img src="https://img.shields.io/badge/Git-5E3122?style=for-the-badge&logo=git&logoColor=92EEFF" />
+<img src="https://img.shields.io/badge/Docker-5E3122?style=for-the-badge&logo=docker&logoColor=92EEFF" />
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🩰 Minhas Estatísticas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariajloureiro&show_icons=true&bg_color=5E3122&title_color=92EEFF&text_color=ffffff&icon_color=92EEFF&border_color=92EEFF&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajloureiro&layout=compact&bg_color=5E3122&title_color=92EEFF&text_color=ffffff&icon_color=92EEFF&border_color=92EEFF" />
+</div>
+
+---
+
+### 💌 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/seu-usuario-aqui" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-5E3122?style=for-the-badge&logo=linkedin&logoColor=92EEFF" />
+</a>
+
+</div>
