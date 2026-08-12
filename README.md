@@ -26,21 +26,3 @@
 
 ---
 
-### 🩰 Minhas Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariajloureiro&show_icons=true&bg_color=5E3122&title_color=92EEFF&text_color=ffffff&icon_color=92EEFF&border_color=92EEFF&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajloureiro&layout=compact&bg_color=5E3122&title_color=92EEFF&text_color=ffffff&icon_color=92EEFF&border_color=92EEFF" />
-</div>
-
----
-
-### 💌 Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/seu-usuario-aqui" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-5E3122?style=for-the-badge&logo=linkedin&logoColor=92EEFF" />
-</a>
-
-</div>
